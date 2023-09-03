@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/cygdrive/d/Code/rpi_os'
+let g:netrw_dirhist_5='/cygdrive/d/Code/experiments/matrix'
+let g:netrw_dirhist_4='/cygdrive/d/Code/FreeRtos_source/FreeRTOS/FreeRTOS/Source'
+let g:netrw_dirhist_3='/cygdrive/d/Code/FreeRto_source/FreeRTOS/FreeRTOS/Demo/AVR_Dx_IAR'
+let g:netrw_dirhist_2='/cygdrive/d/Code/FreeRto_source/FreeRTOS/FreeRTOS/Demo'
+let g:netrw_dirhist_1='/cygdrive/d/Code/FreeRto_source/FreeRTOS/FreeRTOS'
+let g:netrw_dirhist_0='/cygdrive/d/Code/FreeRto_source'
+let g:netrw_dirhist_9='/cygdrive/d/Code/FreeRto_source/FreeRTOS/FreeRTOS/Source'
+let g:netrw_dirhist_8='/cygdrive/d/Code/FreeRto_source/FreeRTOS/FreeRTOS'
+let g:netrw_dirhist_7='/cygdrive/d/Code/FreeRto_source/FreeRTOS'

@@ -1,0 +1,11 @@
+*.bin
+*.hex
+*.md
+*/tags*
+*.out
+*.lst
+*.s 
+*/build*
+*/release*
+*cscope*
+
