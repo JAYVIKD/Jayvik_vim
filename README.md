@@ -7,3 +7,12 @@ list of plugins
 - vim-action-ag ( shortcut for quick search using Ag tool/ search words under the cursor) : gagiw 
 - vim-airline ( beautify the vim tab )
 - syntax ( colour code the C/C++ code properly )
+
+
+How to use: 
+
+install vim and copy the entire directory to the root folder
+
+Tested on:
+
+tested on windows using cygwin
